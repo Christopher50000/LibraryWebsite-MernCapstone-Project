@@ -1,5 +1,3 @@
-//ctupa500:<password>@cluster0.tsvardc.mongodb.net/?retryWrites=true&w=majority
-//mongodb+srv://ctupa500:ct5@cluster0.tsvardc.mongodb.net/test
 
 
 
