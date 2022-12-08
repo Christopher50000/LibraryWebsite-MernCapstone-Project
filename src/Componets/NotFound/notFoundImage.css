@@ -1,0 +1,31 @@
+.image
+{
+    background-image: url('https://www.bing.com/th/id/OGC.44d83d1a96798a9896d5d055d8a0a13c?pid=1.7&rurl=https%3a%2f%2f66.media.tumblr.com%2f3578ac9363e33aeefd6a88c93f49da72%2ftumblr_n6555c1qIP1qlp9j9o6_500.gif&ehk=ggjZvABYukG%2f2OryTJnUxlEDQmsW6EX1asaGTLJSO6g%3d');
+    height: 100vh;
+    width: 100vw;
+    font-size:  50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    margin:0;
+  
+
+    
+
+    display:flex;
+
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+
+.errorText
+{
+    font-size: 80px;
+    color: turquoise;
+    text-align: center;
+    text-shadow: 0 0 10px lightblue, 0 0 20px darkblue, 0 0 30px blue, 0 0 40px black, 0 0 50px blue, 0 0 60px blue, 0 0 70px lightblue;
+}
+
+

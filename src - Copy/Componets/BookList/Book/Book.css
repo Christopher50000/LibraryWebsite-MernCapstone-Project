@@ -1,0 +1,210 @@
+.BookInfoContainer
+{
+    display: flex;
+    flex-direction: column ;
+    
+    font-size: 40px;
+ 
+    height: 100vh;
+    width: 100vw;
+ 
+
+    column-gap: 100px;
+
+}
+
+.Header
+{
+    list-style: none;
+    font-size: 50px;
+    margin: 0;
+    padding:0;
+    color: green;
+    border-style: solid;
+
+    justify-content: space-between;
+    background-color: lightgreen;
+
+    overflow: hidden;
+    position: fixed;
+    top:0;
+    width: 100%;
+
+
+}
+
+.Title
+{
+   
+    display: flex ;
+    flex-direction:row;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: darkgreen;
+
+}
+.coverdetail
+{
+    display: flex;
+    color: white;
+    font-size: 60px;
+    
+}
+.Row
+{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    border-color: black;
+    justify-content: space-between;
+    padding:30px;
+
+    background-color: grey;
+}
+
+.detail
+{
+    display: flex;
+ 
+    border-style: solid;
+    border-color: black;
+    
+
+
+    background-color: blue;
+    
+  
+    
+}
+
+
+
+#checkoutbutton:hover
+{
+    background-color: darkgreen;
+
+}
+
+.Column1
+{
+    display: flex;
+
+    flex-direction: column;
+   
+
+    border-style: solid;
+    border-color: black;
+    width: 90%;
+    
+}
+
+.Column2
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    width: 90%;
+    border-style: solid;
+    border-color: black;
+    gap: 20px;
+
+    background-color: lightgreen;
+
+    
+
+    
+    
+
+
+}
+.navbar
+{
+   
+    list-style: none;
+   font-size: 50px;
+    margin: 0;
+    padding:0;
+    color: green;
+    border-style: solid;
+
+    justify-content: space-between;
+    background-color: lightgreen;
+
+    overflow: hidden;
+    position: fixed;
+    top:0;
+    width: 100%;
+
+
+
+
+}
+
+.navbar li
+{
+    display: inline-block;
+    padding:20px;
+}
+
+
+.detail
+{
+    display: flex;
+ 
+    border-style: solid;
+    border-color: black;
+
+    background-color: white
+    
+  
+    
+}
+
+.formatLinks
+{
+    list-style: none;
+   
+    display: flex;
+   
+
+    
+}
+
+.Header li
+{    display: inline-block;
+    padding:20px;
+}
+
+
+#submitbutton
+{
+    text-align: center;
+    
+}
+#form
+{
+    background-color: pink;
+}
+
+#checkoutbutton1
+{
+  color: white;
+  text-align: center;
+  background-color: green;
+  font-size: 50px;  
+  display: inline-block;
+  cursor: pointer;
+  ;
+}
+
+#checkoutbutton1:hover
+{
+    background-color: darkgreen;
+
+}
+#message
+{
+    text-align: center;
+}

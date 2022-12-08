@@ -1,0 +1,24 @@
+
+
+
+#inputForName
+{
+    font-size: 50px;
+}
+
+#checkoutbutton2
+{
+  color: white;
+  text-align: center;
+  background-color: green;
+  font-size: 50px;  
+  display: inline-block;
+  cursor: pointer;
+  ;
+}
+
+#checkoutbutton2:hover
+{
+    background-color: darkgreen;
+
+}

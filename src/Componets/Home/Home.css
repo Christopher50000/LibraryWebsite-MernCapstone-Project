@@ -1,0 +1,58 @@
+.background
+{
+           background-image: url('https://th.bing.com/th/id/R.3cb4cd4128fb22620a5aed42eb63822b?rik=rYl1opjePk4Lpw&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f08%2fworld-of-warcraft-gif-16.gif&ehk=GkFMW%2bqJ5GZoWVfXHF%2bandA4qfU%2bLKQ6VM4N%2fxbWRVc%3d&risl=&pid=ImgRaw&r=0');
+           height: 100vh;
+           width: 100vw;
+           font-size:  50px;
+           background-size: cover;
+           background-repeat: no-repeat;
+         
+      
+           
+
+           display:flex;
+
+           flex-direction: column;
+           justify-content: space-between;
+           
+     
+         
+           background-color: black;
+          
+           
+        
+
+       
+};
+
+
+
+ul
+{
+    list-style-type: none;
+  
+}
+
+
+.text
+{
+    font-size: 80px;
+    color: lime;
+    text-align: center;
+    text-shadow: 0 0 10px lime, 0 0 20px darkgreen, 0 0 30px green, 0 0 40px #e60073, 0 0 50px green, 0 0 60px green, 0 0 70px green;
+}
+
+
+#list
+{
+    list-style-type: none;
+  
+}
+#list:hover
+{
+    font-size: 80px;
+    color: lime;
+    text-align: center;
+    text-shadow: 0 0 10px darkgreen, 0 0 20px darkgreen, 0 0 30px green, 0 0 40px #e60073, 0 0 50px green, 0 0 60px green, 0 0 70px green;
+}
+
