@@ -34,7 +34,7 @@ app.use(function(req, res, next){
 
 
 /////////////////////////////////////////////////////////////////
-let cs="mongodb+srv://ctupa500:Charger101@cluster0.tsvardc.mongodb.net/test";// creditals to get into db
+let cs="// creditals to get into db"
 let db;   //database varable 
 let books;
 
